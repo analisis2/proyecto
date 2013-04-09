@@ -1,0 +1,13 @@
+{
+  "name": "hello-node",
+  "description": "A demo for nodejs travis and grunt",
+	"author": "yao@yao.com",
+	"version": "0.0.1",
+	"devDependencies":	{
+		"grunt": "0.3.17"
+	},
+	"scripts": {
+		"test": "grunt travis --verbose"
+		
+	}
+}
